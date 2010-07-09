@@ -11,9 +11,9 @@ public interface ICall extends ch.actifsource.core.javamodel.INamedResource {
 
   // relations
   
-  public List<? extends com.actifsource.simpleservice.generic.javamodel.IType> selectParameter();
+  public List<? extends com.actifsource.simpleservice.generic.javamodel.IParameter> selectParameter();
   
-  public com.actifsource.simpleservice.generic.javamodel.IParameter selectReturnType();
+  public com.actifsource.simpleservice.generic.javamodel.IType selectReturnType();
   
 }
 

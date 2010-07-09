@@ -31,13 +31,13 @@ public class Call extends DynamicActifsourceResource implements ICall {
   // relations
   
   @Override
-  public List<? extends com.actifsource.simpleservice.generic.javamodel.IType> selectParameter() {
-    return _getList(com.actifsource.simpleservice.generic.javamodel.IType.class, "17f87c19-8b4c-11df-abce-ffdcfaccc0b3");
+  public List<? extends com.actifsource.simpleservice.generic.javamodel.IParameter> selectParameter() {
+    return _getList(com.actifsource.simpleservice.generic.javamodel.IParameter.class, "17f87c19-8b4c-11df-abce-ffdcfaccc0b3");
   }
   
   @Override
-  public com.actifsource.simpleservice.generic.javamodel.IParameter selectReturnType() {
-    return _getSingle(com.actifsource.simpleservice.generic.javamodel.IParameter.class, "43ca7009-8b4c-11df-abce-ffdcfaccc0b3");
+  public com.actifsource.simpleservice.generic.javamodel.IType selectReturnType() {
+    return _getSingle(com.actifsource.simpleservice.generic.javamodel.IType.class, "43ca7009-8b4c-11df-abce-ffdcfaccc0b3");
   }
   
   @Override
@@ -47,11 +47,11 @@ public class Call extends DynamicActifsourceResource implements ICall {
   
   // toMeRelations
   
-  public static com.actifsource.simpleservice.generic.javamodel.ICall selectToMeParameter(com.actifsource.simpleservice.generic.javamodel.IType object) {
+  public static com.actifsource.simpleservice.generic.javamodel.ICall selectToMeParameter(com.actifsource.simpleservice.generic.javamodel.IParameter object) {
     return _getToMeSingle(object.getRepository(), com.actifsource.simpleservice.generic.javamodel.ICall.class, "17f87c19-8b4c-11df-abce-ffdcfaccc0b3", object.getResource());
   }
   
-  public static List<com.actifsource.simpleservice.generic.javamodel.ICall> selectToMeReturnType(com.actifsource.simpleservice.generic.javamodel.IParameter object) {
+  public static List<com.actifsource.simpleservice.generic.javamodel.ICall> selectToMeReturnType(com.actifsource.simpleservice.generic.javamodel.IType object) {
     return _getToMeList(object.getRepository(), com.actifsource.simpleservice.generic.javamodel.ICall.class, "43ca7009-8b4c-11df-abce-ffdcfaccc0b3", object.getResource());
   }
   
