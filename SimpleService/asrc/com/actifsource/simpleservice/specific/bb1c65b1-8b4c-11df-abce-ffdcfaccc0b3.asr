@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="bb1c65b1-8b4c-11df-abce-ffdcfaccc0b3">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="bb1c8cc3-8b4c-11df-abce-ffdcfaccc0b3" type="resource" guid="5f9fdc12-8b2f-11df-b449-ffd07f85dbbb" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="bb1c8cc4-8b4c-11df-abce-ffdcfaccc0b3" type="literal">Patient</object>
+  </predicate>
+  <predicate guid="9eb5f0b7-8b37-11df-accf-7b0339714ec3">
+    <object statement-guid="ce1b3888-8b4c-11df-abce-ffdcfaccc0b3">
+      <resource guid="ce1ac355-8b4c-11df-abce-ffdcfaccc0b3">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="ce1b1177-8b4c-11df-abce-ffdcfaccc0b3" type="resource" guid="64e13a40-8b2f-11df-b449-ffd07f85dbbb" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="d95eac99-8b4c-11df-abce-ffdcfaccc0b3" type="literal">Create</object>
+        </predicate>
+        <predicate guid="17f87c19-8b4c-11df-abce-ffdcfaccc0b3">
+          <object statement-guid="df51f58d-8b4c-11df-abce-ffdcfaccc0b3">
+            <resource guid="df51805a-8b4c-11df-abce-ffdcfaccc0b3">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="df51a76c-8b4c-11df-abce-ffdcfaccc0b3" type="resource" guid="61e33c71-8b2f-11df-b449-ffd07f85dbbb" />
+              </predicate>
+              <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="e4ece54e-8b4c-11df-abce-ffdcfaccc0b3" type="literal">LastName</object>
+              </predicate>
+              <predicate guid="37f913d1-8b4c-11df-abce-ffdcfaccc0b3">
+                <object statement-guid="16f74275-8b4d-11df-abce-ffdcfaccc0b3" type="resource" guid="f764add0-8b4c-11df-abce-ffdcfaccc0b3" />
+              </predicate>
+            </resource>
+          </object>
+          <object statement-guid="661e35b9-8b4e-11df-abce-ffdcfaccc0b3">
+            <resource guid="661dc086-8b4e-11df-abce-ffdcfaccc0b3">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="661de798-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="61e33c71-8b2f-11df-b449-ffd07f85dbbb" />
+              </predicate>
+              <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="6bc1b0fa-8b4e-11df-abce-ffdcfaccc0b3" type="literal">FirstName</object>
+              </predicate>
+              <predicate guid="37f913d1-8b4c-11df-abce-ffdcfaccc0b3">
+                <object statement-guid="6f4bc21b-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="f764add0-8b4c-11df-abce-ffdcfaccc0b3" />
+              </predicate>
+            </resource>
+          </object>
+        </predicate>
+        <predicate guid="43ca7009-8b4c-11df-abce-ffdcfaccc0b3">
+          <object statement-guid="7968b78c-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="7ac2f05d-8b4e-11df-abce-ffdcfaccc0b3" />
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="84d362b4-8b4e-11df-abce-ffdcfaccc0b3">
+      <resource guid="84d2c671-8b4e-11df-abce-ffdcfaccc0b3">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="84d31493-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="64e13a40-8b2f-11df-b449-ffd07f85dbbb" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="958d4e95-8b4e-11df-abce-ffdcfaccc0b3" type="literal">Delete</object>
+        </predicate>
+        <predicate guid="17f87c19-8b4c-11df-abce-ffdcfaccc0b3">
+          <object statement-guid="9bef37d9-8b4e-11df-abce-ffdcfaccc0b3">
+            <resource guid="9beec2a6-8b4e-11df-abce-ffdcfaccc0b3">
+              <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="9bef10c8-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="61e33c71-8b2f-11df-b449-ffd07f85dbbb" />
+              </predicate>
+              <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+                <object statement-guid="9eac831a-8b4e-11df-abce-ffdcfaccc0b3" type="literal">Id</object>
+              </predicate>
+              <predicate guid="37f913d1-8b4c-11df-abce-ffdcfaccc0b3">
+                <object statement-guid="a00646bb-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="7ac2f05d-8b4e-11df-abce-ffdcfaccc0b3" />
+              </predicate>
+            </resource>
+          </object>
+        </predicate>
+        <predicate guid="43ca7009-8b4c-11df-abce-ffdcfaccc0b3">
+          <object statement-guid="a5be0d4c-8b4e-11df-abce-ffdcfaccc0b3" type="resource" guid="a7b437fd-8b4e-11df-abce-ffdcfaccc0b3" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+
