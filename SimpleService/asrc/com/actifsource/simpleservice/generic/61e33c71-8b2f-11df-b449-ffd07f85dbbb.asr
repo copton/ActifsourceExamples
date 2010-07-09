@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="61e33c71-8b2f-11df-b449-ffd07f85dbbb">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="61e3d8b3-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="61e426d5-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="61e3d8b4-8b2f-11df-b449-ffd07f85dbbb" type="literal">Type</object>
+  </predicate>
+</resource>
+

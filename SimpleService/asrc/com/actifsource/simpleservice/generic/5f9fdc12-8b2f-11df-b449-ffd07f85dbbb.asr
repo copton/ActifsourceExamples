@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="5f9fdc12-8b2f-11df-b449-ffd07f85dbbb">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="5fa05144-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="5fa0c676-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="77bd1be8-8b2f-11df-b449-ffd07f85dbbb">
+      <resource guid="77bbe362-8b2f-11df-b449-ffd07f85dbbb">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="77bc3184-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="ec497706-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="31fc97ab-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="77bd6a09-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="64e13a40-8b2f-11df-b449-ffd07f85dbbb" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="77bc3185-8b2f-11df-b449-ffd07f85dbbb" type="literal">call</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="77bccdc6-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="77bcf4d7-8b2f-11df-b449-ffd07f85dbbb" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="5fa05145-8b2f-11df-b449-ffd07f85dbbb" type="literal">Service</object>
+  </predicate>
+</resource>
+
