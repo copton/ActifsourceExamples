@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="5284d064-8c67-11df-a65f-fd4c167633ca">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="52851e86-8c67-11df-a65f-fd4c167633ca" type="resource" guid="d1782950-8c66-11df-a65f-fd4c167633ca" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="535e1967-8c67-11df-a65f-fd4c167633ca" type="literal">String</object>
+  </predicate>
+</resource>
+

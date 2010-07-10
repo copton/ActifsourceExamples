@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="d05972d1-8c66-11df-a65f-fd4c167633ca">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d059c0f3-8c66-11df-a65f-fd4c167633ca" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d05a5d35-8c66-11df-a65f-fd4c167633ca" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f264cfdb-8c66-11df-a65f-fd4c167633ca">
+      <resource guid="f2640c85-8c66-11df-a65f-fd4c167633ca">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f2645aa7-8c66-11df-a65f-fd4c167633ca" type="resource" guid="ec497706-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="31fc97ab-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f264f6ec-8c66-11df-a65f-fd4c167633ca" type="resource" guid="d1782950-8c66-11df-a65f-fd4c167633ca" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f2645aa8-8c66-11df-a65f-fd4c167633ca" type="literal">type</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="f26481b9-8c66-11df-a65f-fd4c167633ca" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="f264a8ca-8c66-11df-a65f-fd4c167633ca" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d05a0f14-8c66-11df-a65f-fd4c167633ca" type="literal">Parameter</object>
+  </predicate>
+</resource>
+

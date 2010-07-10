@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSettings>
+  <version format="4.2.0" />
+  <resourcepaths>
+    <path>asrc</path>
+    <builtin>core</builtin>
+    <builtin>diagram</builtin>
+  </resourcepaths>
+  <templatepaths />
+  <targetpaths>
+    <targetpath>
+      <path>src</path>
+    </targetpath>
+  </targetpaths>
+</projectSettings>
+
