@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="de05bda1-8ced-11df-b344-8b886bf6a4b4">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="de05e4b3-8ced-11df-b344-8b886bf6a4b4" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="de060bc5-8ced-11df-b344-8b886bf6a4b4" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="4172c660-8cee-11df-b344-8b886bf6a4b4">
+      <resource guid="4172512a-8cee-11df-b344-8b886bf6a4b4">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="4172783c-8cee-11df-b344-8b886bf6a4b4" type="resource" guid="ec497706-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="31fc97ab-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="4172ed71-8cee-11df-b344-8b886bf6a4b4" type="resource" guid="dbf29502-8ced-11df-b344-8b886bf6a4b4" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="4172783d-8cee-11df-b344-8b886bf6a4b4" type="literal">state</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="4172c65e-8cee-11df-b344-8b886bf6a4b4" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="4172c65f-8cee-11df-b344-8b886bf6a4b4" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="de05e4b4-8ced-11df-b344-8b886bf6a4b4" type="literal">Transition</object>
+  </predicate>
+</resource>
+
