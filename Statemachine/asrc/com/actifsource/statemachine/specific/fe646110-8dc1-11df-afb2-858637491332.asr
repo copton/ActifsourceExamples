@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="fe646110-8dc1-11df-afb2-858637491332">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="fe64af32-8dc1-11df-afb2-858637491332" type="resource" guid="d9387df4-8ced-11df-b344-8b886bf6a4b4" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="fe64af33-8dc1-11df-afb2-858637491332" type="literal">Statemachine1</object>
+  </predicate>
+  <predicate guid="eb834340-8ced-11df-b344-8b886bf6a4b4">
+    <object statement-guid="fff428d7-8dc1-11df-afb2-858637491332">
+      <resource guid="fff3b3a4-8dc1-11df-afb2-858637491332">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="fff401c6-8dc1-11df-afb2-858637491332" type="resource" guid="da7829f3-8ced-11df-b344-8b886bf6a4b4" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="00a83698-8dc2-11df-afb2-858637491332" type="literal">start</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="04ce60ac-8dc2-11df-afb2-858637491332">
+      <resource guid="04ce1289-8dc2-11df-afb2-858637491332">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="04ce399b-8dc2-11df-afb2-858637491332" type="resource" guid="da7829f3-8ced-11df-b344-8b886bf6a4b4" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="05754f0d-8dc2-11df-afb2-858637491332" type="literal">stop</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="fea8ff08-8ced-11df-b344-8b886bf6a4b4">
+    <object statement-guid="0a33e88e-8dc2-11df-afb2-858637491332" type="literal">Initialized</object>
+    <object statement-guid="1b67231f-8dc2-11df-afb2-858637491332" type="literal">Started</object>
+    <object statement-guid="24a132a0-8dc2-11df-afb2-858637491332" type="literal">Stopped</object>
+  </predicate>
+</resource>
+
