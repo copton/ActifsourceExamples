@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="da0428af-8dca-11df-abdc-d7c315ac6871">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="da044fc1-8dca-11df-abdc-d7c315ac6871" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="da0476d3-8dca-11df-abdc-d7c315ac6871" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="da044fc2-8dca-11df-abdc-d7c315ac6871" type="literal">Event</object>
+  </predicate>
+</resource>
+
