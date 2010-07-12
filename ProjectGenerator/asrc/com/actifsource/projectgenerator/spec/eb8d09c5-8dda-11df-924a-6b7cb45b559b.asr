@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="eb8d09c5-8dda-11df-924a-6b7cb45b559b">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb8d30d7-8dda-11df-924a-6b7cb45b559b" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb8d7ef9-8dda-11df-924a-6b7cb45b559b" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="eb8d30d8-8dda-11df-924a-6b7cb45b559b" type="literal">Project</object>
+  </predicate>
+</resource>
+
