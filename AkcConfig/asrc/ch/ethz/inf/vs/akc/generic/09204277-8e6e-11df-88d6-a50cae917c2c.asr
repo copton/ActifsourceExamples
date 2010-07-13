@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="09204277-8e6e-11df-88d6-a50cae917c2c">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="09206989-8e6e-11df-88d6-a50cae917c2c" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0920909b-8e6e-11df-88d6-a50cae917c2c" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="7508f7a7-8e6f-11df-88d6-a50cae917c2c">
+      <resource guid="7508d094-8e6f-11df-88d6-a50cae917c2c">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="7508d096-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="2936588e-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3262fa9c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="7813edba-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="2dbfb147-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="763a4bb8-8e6f-11df-88d6-a50cae917c2c" type="literal">tag</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="76f166b9-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0920698a-8e6e-11df-88d6-a50cae917c2c" type="literal">Thing</object>
+  </predicate>
+</resource>
+

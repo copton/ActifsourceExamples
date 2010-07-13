@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="0b26c0e6-8e6e-11df-88d6-a50cae917c2c">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0b26c0e8-8e6e-11df-88d6-a50cae917c2c" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0b26e7fa-8e6e-11df-88d6-a50cae917c2c" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="64ee8010-8e6f-11df-88d6-a50cae917c2c">
+      <resource guid="64ee58fd-8e6f-11df-88d6-a50cae917c2c">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="64ee800f-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="2936588e-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="3262fa9c-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="69c339a3-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="2d5c5b96-f91f-11d9-bb45-5fabdff7c7da" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="66fa7cb1-8e6f-11df-88d6-a50cae917c2c" type="literal">file</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="683f0aa2-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0b26c0e9-8e6e-11df-88d6-a50cae917c2c" type="literal">Action</object>
+  </predicate>
+</resource>
+
