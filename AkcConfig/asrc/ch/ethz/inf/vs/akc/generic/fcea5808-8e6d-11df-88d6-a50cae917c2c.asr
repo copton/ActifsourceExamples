@@ -16,7 +16,7 @@
           <object statement-guid="4c689395-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="2dbfb147-f91f-11d9-bb45-5fabdff7c7da" />
         </predicate>
         <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
-          <object statement-guid="47768e03-8e6f-11df-88d6-a50cae917c2c" type="literal">Scanner</object>
+          <object statement-guid="47768e03-8e6f-11df-88d6-a50cae917c2c" type="literal">scanner</object>
         </predicate>
         <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
           <object statement-guid="4a2e8214-8e6f-11df-88d6-a50cae917c2c" type="resource" guid="ec497724-82e5-11da-bec9-79935dcc853f" />

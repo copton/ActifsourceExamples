@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="cda9eb2a-8e7f-11df-9644-7776cfd95e0d">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="cdaa605c-8e7f-11df-9644-7776cfd95e0d" type="resource" guid="ec497721-82e5-11da-bec9-79935dcc853f" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="900aa917-8e80-11df-8ca6-d39d54a42658" type="literal">Cardinality2_N</object>
+  </predicate>
+  <predicate guid="345cced1-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d472acb9-8e7f-11df-9644-7776cfd95e0d" type="literal">2</object>
+  </predicate>
+  <predicate guid="34c7c5a2-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d535fcbd-8e7f-11df-9644-7776cfd95e0d" type="literal">max</object>
+  </predicate>
+</resource>
+

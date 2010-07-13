@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="4.1.0" guid="90afeaf8-8e75-11df-8f09-272ade1373d5">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="90b0602a-8e75-11df-8f09-272ade1373d5" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="a03b6945-8e75-11df-8f09-272ade1373d5" type="resource" guid="12bd0b8b-8e6e-11df-88d6-a50cae917c2c" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="90b0602b-8e75-11df-8f09-272ade1373d5" type="literal">EnterRule</object>
+  </predicate>
+</resource>
+
