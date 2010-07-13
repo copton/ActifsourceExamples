@@ -5,15 +5,12 @@
     <path>asrc</path>
     <builtin>core</builtin>
     <builtin>diagram</builtin>
+	<builtin>ecore</builtin>
   </resourcepaths>
   <templatepaths />
   <targetpaths>
     <targetpath>
       <path>src</path>
-      <build>
-        <buildConfig>a3cbd5b9-8e65-11df-88d6-a50cae917c2c</buildConfig>
-        <package>com.actifsource.projectgenerator.usage.**</package>
-      </build>
     </targetpath>
   </targetpaths>
 </projectSettings>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project name="TestProject">
+	<dir name="src"/>
+	<dir name="bin"/>
+	<dir name="asrc"/>
+	<file src="src/TestProject/.project" dst=".project" overwrite="true"/>
+	<file src="src_common/.classpath" dst=".classpath" overwrite="false"/>
+	<file src="src_common/.asproject" dst=".asproject" overwrite="false"/>
+	<workingset name="TestProject"/>
+</project>
+<!--Actifsource ID=[0e1aea57-8e65-11df-88d6-a50cae917c2c,bbba3d6e-8e65-11df-88d6-a50cae917c2c]-->
