@@ -1,0 +1,3 @@
+var a,b,c;
+a := (b mul c) add 5*b; # doing some math
+// Actifsource ID=[98e4f28f-8e6b-11df-88d6-a50cae917c2c,a6d1b8c9-cedd-11de-80c2-87ac3b08f930]
